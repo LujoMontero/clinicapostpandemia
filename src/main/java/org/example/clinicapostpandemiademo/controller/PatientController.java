@@ -1,7 +1,7 @@
 package org.example.clinicapostpandemiademo.controller;
 
 import org.example.clinicapostpandemiademo.entity.Patient;
-import org.example.clinicapostpandemiademo.service.impl.IPatientService;
+import org.example.clinicapostpandemiademo.service.IPatientService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

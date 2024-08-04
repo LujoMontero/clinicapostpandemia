@@ -1,4 +1,4 @@
-package org.example.clinicapostpandemiademo.service.impl;
+package org.example.clinicapostpandemiademo.service;
 
 import org.example.clinicapostpandemiademo.entity.Patient;
 
